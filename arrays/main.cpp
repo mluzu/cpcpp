@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
 
@@ -21,6 +22,30 @@ int main(){
   }
 }
 
+void printArray(int arr[], int size)
+{
+    for (int i = 0; i < size; i++)
+        cout << arr[i] << " ";
+}
+
 void ArrayRotation(){
-    cout << "array rotation";
+    int arr[] = {19,6,73,24,4,11,9,50,12};
+    int d = 2;
+    d = d%n
+    g_c_d = __gcd(sizeof(arr), d)
+
+    printArray(arr, sizeof(arr))
+
+    for(i=0; i<g_d_c; i++){
+      int temp, j;
+      temp = arr[i];
+      j
+      while true {
+        
+      }
+
+    } 
+
+
+
 }
